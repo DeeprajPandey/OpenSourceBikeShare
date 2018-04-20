@@ -79,7 +79,7 @@ foreach ($files as $key=>$value)
 <html lang="en">
 <head>
 <meta charset="UTF-8" />
-<title><?php echo $systemname; ?> <?php echo _('Installation'); ?></title>
+<title>Installation</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 <script type="text/javascript" src="../js/bootstrap.min.js"></script>
